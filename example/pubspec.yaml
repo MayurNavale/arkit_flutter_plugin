@@ -6,6 +6,7 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
+  arkit_plugin: ^0.5.1
   flutter:
     sdk: flutter
 
@@ -17,8 +18,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  arkit_plugin:
-    path: ../
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
